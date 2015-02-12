@@ -3,7 +3,7 @@
 /*
 Plugin Name: All Post Statuses for Add Link
 Plugin URI: https://github.com/theukedge/all-post-statuses-for-add-link
-Description: Adds all post statuses to the "Add Link" modal in the WordPress editor, allowing you to link to future content, draft posts, private items and more.
+Description: Adds all post statuses to the "Add Link" modal in the WordPress editor, allowing you to link to future content, draft posts, private items etc.
 Author: Dave Clements
 Author URI: https://www.theukedge.com
 Version: 1.0
