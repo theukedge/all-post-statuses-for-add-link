@@ -3,7 +3,9 @@
 
 ### Welcome to the GitHub Repository
 
-Adds all post statuses to the "Add Link" modal in the WordPress editor, allowing you to link to future content, draft posts, private items and more.## Bugs ##
+Adds all post statuses to the "Add Link" modal in the WordPress editor, allowing you to link to future content, draft posts, private items and more.
+
+## Bugs ##
 If you find an issue, let me know [here](https://github.com/theukedge/all-post-statuses-for-add-link/issues/new).
 
 ## Contributions ##
