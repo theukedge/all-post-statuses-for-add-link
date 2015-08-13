@@ -37,9 +37,15 @@ Probably. The best thing to do is to create a new feature request on [GitHub](ht
 == Changelog ==
 
 = 1.1 =
+
+Release date: August 13, 2015
+
 * Remove media items from the list of items to link to by removing post type 'attachment' from query, since this is better handled by the media manager.
 
 = 1.0 =
+
+Release date: February 17, 2015
+
 * Initial release
 
 == Upgrade Notice ==
