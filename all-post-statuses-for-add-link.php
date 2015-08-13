@@ -6,7 +6,7 @@ Plugin URI: https://github.com/theukedge/all-post-statuses-for-add-link
 Description: Adds all post statuses to the "Add Link" modal in the WordPress editor, allowing you to link to future content, draft posts, private items etc.
 Author: Dave Clements
 Author URI: https://www.theukedge.com
-Version: 1.0
+Version: 1.1
 License: GPL-2.0+
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 */

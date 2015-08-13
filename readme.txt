@@ -3,8 +3,8 @@ Contributors: thewanderingbrit
 Donate link: https://www.theukedge.com/donate/?utm_source=wordpress.org&utm_medium=plugin&utm_campaign=donate
 Tags: add link, post status, draft, future, scheduled, private, custom, linking, wp_link_query, wp_link_query_args
 Requires at least: 3.7
-Tested up to: 4.1
-Stable tag: 1.0
+Tested up to: 4.3
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,10 +36,16 @@ Probably. The best thing to do is to create a new feature request on [GitHub](ht
 
 == Changelog ==
 
+= 1.1 =
+* Remove media items from the list of items to link to by removing post type 'attachment' from query, since this is better handled by the media manager.
+
 = 1.0 =
 * Initial release
 
 == Upgrade Notice ==
+
+= 1.1 =
+* Removed media from list of items
 
 = 1.0 =
 Initial release
