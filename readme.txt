@@ -3,7 +3,7 @@ Contributors: thewanderingbrit
 Donate link: https://www.theukedge.com/donate/?utm_source=wordpress.org&utm_medium=plugin&utm_campaign=donate
 Tags: add link, post status, draft, future, scheduled, private, custom, linking, wp_link_query, wp_link_query_args
 Requires at least: 3.7
-Tested up to: 4.3
+Tested up to: 4.4.1
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
